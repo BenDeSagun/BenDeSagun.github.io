@@ -13,6 +13,3 @@
 -  4× NBA champion (2015, 2017, 2018, 2022)
 -  3 point record(3,201)
 # Shooting
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
